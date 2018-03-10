@@ -20,6 +20,6 @@ management:
 
 server:
   port: 11110
-  context-path: /zipkin
+  #context-path: /zipkin
 
 
