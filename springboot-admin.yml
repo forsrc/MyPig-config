@@ -1,7 +1,0 @@
-server:
-  port: 13000
-  context-path: /
-
-spring:
-  application:
-    name: springboot-admin

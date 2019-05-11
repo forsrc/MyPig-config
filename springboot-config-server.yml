@@ -1,7 +1,0 @@
-server:
-  port: 12000
-  context-path: /config
-
-spring:
-  application:
-    name: springboot-config-server
